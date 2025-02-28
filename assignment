@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang=" en "></html>
+<head>
+<title>ASSIGNMENT 1</title>
+<style>
+ h1{color :indigo}</style>
+<link rel="stylesheet" href="assignment 2">
+</head>
+    <body>
+        <img src="me1.jpg" alt="me1.jpg">
+          <h1>ASSIGNMENT 1</h1>
+            <p>Hi! &#128075 I go by the name  </i><b>FELICIA DEDAA BOAKYE. </b>
+             <p>I am a first year </i><b>BIOMEDICAL ENGINEERING STUDENT.</i></b>
+            <p>My reference number is <b>21100977</b></p>         
+            <style> 
+            h2{color: dark orchid;}</style>
+             <h2>INTRODUCTION</h2>
+             <P>So, <b>biomedical engineering</b> is a field in engineering that deals with the combination of biology, 
+             technology, medicine, and innovative ideas to improve the healthcare of humanity.
+             Studying biomedical engineering opens a lot of career opportunities that help in improving and adding value
+              to the lives of various individuals. Honestly speaking, biomedical engineering is one of the best engineering courses 
+              to offer because aside from building innovative devices to improve people's lives, the money that the engineer makes is top-notch &#128524.</P>
+             </body>
+    <head>
+              <title>REASON FOR STUDING BIOMEDICAL ENGINEERING</title>
+          <style>
+        h3{color: dark orchid;} </style>
+        </head>
+        <body>
+            <h3>REASON  FOR STUDYING BIOMEDICAL ENGINEERING</h3>
+            <P>My reason for studying biomedical engineering, hmm... apart from the salary I will be earning (<b>which is a lot &#128526</b>),
+            I have a strong desire to help people, so I thought of it since I studied a little bit of coding and robotics in high school (<b>which I enjoyed</b>) 
+            and loved biology. Why don't I just merge both? So, through some research I did, I stumbled upon biomedical engineering&#128525. I continued
+             my research on the program, and I fell in love with it, hence growing my love for the program. Mmm... I guess that the reason, apart form the money 
+             that will be earned&#128524 why I'm studying biomedical engineering</P>
+            <body>
+            <style>
+          h4{color: rgba(255, 0, 34, 0.612);} </style>
+          <h4><i>THANK YOU</i></h4>
+        </body>
+        </html>
